@@ -1,4 +1,3 @@
-<script>
 const row = function (amount) {
     let string = '';
 
@@ -55,4 +54,3 @@ const diamond = function (length) {
 };
 
 diamond(10);
-</script>
