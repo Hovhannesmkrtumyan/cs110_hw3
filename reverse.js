@@ -1,4 +1,3 @@
-<script>
 const reverse = function (array) {
     const array = [];
     const length = array.length;
@@ -9,4 +8,3 @@ const reverse = function (array) {
 
     return array;
 };
-</script>
